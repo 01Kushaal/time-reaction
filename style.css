@@ -1,0 +1,21 @@
+        body {
+
+            font-family: 'Times New Roman', Times, serif;
+        }
+        #shape {
+            width: 100vh;
+            height: 100vh;
+            background-color: rebeccapurple;
+            display: none;
+            position: relative;
+        }
+        h1{
+        color: yellowgreen;
+        font-style: italic;
+        font-size: 50px;
+        text-decoration-style:wavy;
+        }
+        p{
+        color:royalblue;
+        font-size: larger;
+        }
